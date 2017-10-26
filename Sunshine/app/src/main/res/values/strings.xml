@@ -3,6 +3,11 @@
 
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
+
+    <!-- Used in the menu item of Main Activity -->
     <string name="action_settings">Settings</string>
 
+    <!-- Used in the forecastfragment menu - Refresh -->
+    <!-- No need of translation -->
+    <string name="refresh_text" translatable="false">Refresh</string>
 </resources>
